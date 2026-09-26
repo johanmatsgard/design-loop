@@ -4,7 +4,7 @@ An autonomous design process I run in Claude Code on the customer portal for Elv
 
 ## Why
 
-The portal has one job above all: get customers to do the things that block their installation, like booking a site visit, before a deadline. Iterating on that by hand in Figma was slow, and small changes rarely tested a genuinely different idea. I wanted something that could explore properly while I stayed in control of direction.
+The portal has one main job: get customers to do the things that block their installation, like booking a site visit, before a deadline. I also wanted it to be genuinely good to use, not just functional. The loop lets me explore a lot of directions quickly while I decide where it goes.
 
 ## How it works
 
