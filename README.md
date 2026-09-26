@@ -1,14 +1,14 @@
 # Design loop
 
-An autonomous design process I run in Claude Code for design work at Elvy. The projects themselves are private, so this is a write-up of the method.
+How I go from a design system to finished screens at Elvy, for both the website and our apps. The projects are private, so this is a write-up of the method.
 
-## Why
+## The idea
 
-I want Elvy's product design to hold up against the best in the category, and to explore more directions than I'd ever have time for by hand, while I still decide where things go.
+A design system gives you the parts. What a specific page or screen should do with them is a separate problem, and that's what the loop is for. It starts from what we need to accomplish, for example getting a customer to book a visit or explaining what's included in the subscription, and designs solutions for it using only parts from the system. The good ones get rolled out to customers on the web or in the apps.
 
 ## How it works
 
-Each project gets a handful of focused loops, each looking at one side of the experience. A typical set:
+Each project gets a handful of focused loops, each looking at one side of the problem. A typical set:
 
 | Loop | Looks at |
 |---|---|
@@ -24,8 +24,10 @@ After two cycles the current version is frozen and the loop forks a new one. A n
 
 ## Rules it works under
 
+- Only parts from the design system, nothing invented
 - A shared contract in `CORE.md` that every loop reads first
 - Loop state kept in the project so a run picks up where the last one stopped
-- Brand typefaces are locked; the rest of the design system can be pushed
 - Judged on a phone first, and desktop must still hold up
 - Mock data only
+
+The design system it builds from is public at [elvyenergy.com/design-system](https://www.elvyenergy.com/design-system).
