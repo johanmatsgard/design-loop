@@ -2,6 +2,8 @@
 
 How I go from a design system to finished screens at Elvy, for both the website and our apps. The projects are private, so this is a write-up of the method.
 
+<img src="assets/design-loop.webp" alt="The design loop: a design team that never stops" width="100%">
+
 ## The idea
 
 A design system gives you the parts. What a specific page or screen should do with them is a separate problem, and that's what the loop is for. It starts from what we need to accomplish, for example getting a customer to book a visit or explaining what's included in the subscription, and designs solutions for it using only parts from the system. The good ones get rolled out to customers on the web or in the apps.
