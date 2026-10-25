@@ -33,3 +33,5 @@ After two cycles the current version is frozen and the loop forks a new one. A n
 - Mock data only
 
 The design system it builds from is public at [elvyenergy.com/design-system](https://www.elvyenergy.com/design-system).
+
+More on how I work: [github.com/johanmatsgard](https://github.com/johanmatsgard#how-i-work)
